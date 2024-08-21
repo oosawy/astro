@@ -1445,7 +1445,6 @@ export interface AstroUserConfig {
 		validateSecrets?: boolean;
 	};
 
-
 	/**
 	 * @docs
 	 * @kind heading
